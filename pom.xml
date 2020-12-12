@@ -24,7 +24,7 @@
   <parent>
     <groupId>com.youkol</groupId>
     <artifactId>youkol-parent</artifactId>
-    <version>2</version>
+    <version>3</version>
     <relativePath />
   </parent>
 
