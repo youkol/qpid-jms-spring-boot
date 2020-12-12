@@ -1,0 +1,1 @@
+providers: qpid-jms-spring-boot-autoconfigure, qpid-jms-client, spring-jms
