@@ -30,7 +30,7 @@
   <groupId>com.youkol.support.qpid</groupId>
   <artifactId>qpid-jms-spring-boot-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>qpid-jms-spring-boot-parent</name>
   <description>Apache Qpid JMS that uses the AMQP 1.0 protocol Binding for Spring Boot.</description>
@@ -65,7 +65,7 @@
     <connection>scm:git:git://github.com/youkol/qpid-jms-spring-boot.git</connection>
     <developerConnection>scm:git:git@github.com:youkol/qpid-jms-spring-boot.git</developerConnection>
     <url>https://github.com/youkol/qpid-jms-spring-boot</url>
-    <tag>v1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>

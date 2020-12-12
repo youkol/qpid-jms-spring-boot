@@ -21,7 +21,7 @@
   <parent>
     <artifactId>qpid-jms-spring-boot-parent</artifactId>
     <groupId>com.youkol.support.qpid</groupId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
 
   <groupId>com.youkol.support.qpid</groupId>
