@@ -33,7 +33,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.jms.connection.CachingConnectionFactory;
 
 /**
- * Configuration for Apache Qpid JMS {@link ConnectionFac}.
+ * Configuration for Apache Qpid JMS {@link ConnectionFactory}.
  *
  * @author jackiea
  * @date 2020/12/11
