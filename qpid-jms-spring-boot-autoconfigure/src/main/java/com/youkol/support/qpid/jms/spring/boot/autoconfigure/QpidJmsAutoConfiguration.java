@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (C) 2020 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,6 +16,7 @@
 package com.youkol.support.qpid.jms.spring.boot.autoconfigure;
 
 import jakarta.jms.ConnectionFactory;
+
 import org.apache.qpid.jms.JmsConnectionFactory;
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.AutoConfigureBefore;

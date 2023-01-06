@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (C) 2020 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,6 +18,7 @@ package com.youkol.support.qpid.jms.spring.boot.autoconfigure;
 import java.util.stream.Collectors;
 
 import jakarta.jms.ConnectionFactory;
+
 import org.apache.commons.pool2.PooledObject;
 import org.apache.qpid.jms.JmsConnectionFactory;
 import org.messaginghub.pooled.jms.JmsPoolConnectionFactory;
