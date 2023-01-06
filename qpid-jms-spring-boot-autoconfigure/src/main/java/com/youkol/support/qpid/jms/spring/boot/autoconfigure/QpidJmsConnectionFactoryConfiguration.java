@@ -17,8 +17,7 @@ package com.youkol.support.qpid.jms.spring.boot.autoconfigure;
 
 import java.util.stream.Collectors;
 
-import javax.jms.ConnectionFactory;
-
+import jakarta.jms.ConnectionFactory;
 import org.apache.commons.pool2.PooledObject;
 import org.apache.qpid.jms.JmsConnectionFactory;
 import org.messaginghub.pooled.jms.JmsPoolConnectionFactory;

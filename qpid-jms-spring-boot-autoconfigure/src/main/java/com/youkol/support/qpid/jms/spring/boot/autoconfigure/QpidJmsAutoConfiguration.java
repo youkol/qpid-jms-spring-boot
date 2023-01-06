@@ -15,8 +15,7 @@
  */
 package com.youkol.support.qpid.jms.spring.boot.autoconfigure;
 
-import javax.jms.ConnectionFactory;
-
+import jakarta.jms.ConnectionFactory;
 import org.apache.qpid.jms.JmsConnectionFactory;
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.AutoConfigureBefore;
